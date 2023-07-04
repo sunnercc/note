@@ -12,5 +12,6 @@
 在 https://github.com/chatanywhere/GPT_API_free 中，可以拿到免费的 APIKey 和代理服务器地址。
 
 ## 软件
-chrome 浏览器使用 Sider
+chrome 浏览器使用 Sider.
+
 macOS 和 iOS 使用 OpenCat
